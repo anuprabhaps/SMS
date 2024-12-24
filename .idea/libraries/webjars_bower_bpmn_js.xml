@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="webjars.bower.bpmn.js" type="repository">
+    <properties maven-id="org.webjars.bower:bpmn-js:0.13.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bpmn-js-0.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/bpmn-js-0.13.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

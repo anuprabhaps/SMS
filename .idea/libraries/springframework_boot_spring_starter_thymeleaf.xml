@@ -1,0 +1,84 @@
+<component name="libraryTable">
+  <library name="springframework.boot.spring.starter.thymeleaf" type="repository">
+    <properties maven-id="org.springframework.boot:spring-boot-starter-thymeleaf:3.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-thymeleaf-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-autoconfigure-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-logging-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.5.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.5.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-to-slf4j-2.24.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.24.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-2.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-spring6-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/attoparser-2.0.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unbescape-1.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-thymeleaf-3.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-3.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-3.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.14.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.14.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-autoconfigure-3.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-logging-3.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.5.12-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.5.12-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-2.0.16-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-2.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-spring6-3.1.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-3.1.2.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/attoparser-2.0.7.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unbescape-1.1.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-thymeleaf-3.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-3.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-3.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-6.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-6.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-6.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-6.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-observation-1.14.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-commons-1.14.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-autoconfigure-3.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-logging-3.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.5.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.5.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-to-slf4j-2.24.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.24.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-2.0.16-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-6.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-6.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-2.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-spring6-3.1.2.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-3.1.2.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/attoparser-2.0.7.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unbescape-1.1.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
