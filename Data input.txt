@@ -1,0 +1,23 @@
+{
+    "name":"anu",
+    "age":22,
+    "gender":"F",
+    "email":"anusanjai003@gmail.com",
+    "address":"Coimbatore",
+    "password":"aNu",
+    "course":[
+        {"name":"Machine learning","code":121,"sem_no":2},
+        {"name":"Data Structures","code":122,"sem_no":2},
+        {"name":"Oops","code":123,"sem_no":2},
+        {"name":"SQl","code":124,"sem_no":2},
+        {"name":"Techincal English","code":125,"sem_no":2}],
+    "result":[
+        {"name":"Machine learning","grades":"A","result":"PASS"},
+        {"name":"Data Structures","grades":"B","result":"PASS"},
+        {"name":"Oops","grades":"B","result":"PASS"},
+        {"name":"SQl","grades":"A","result":"PASS"},
+        {"name":"Techincal English","grades":"A","result":"PASS"}
+              ]
+        }
+
+       
